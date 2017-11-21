@@ -35,5 +35,6 @@ Output:
 ![alt text](https://github.com/SiddhantKapil/deslant_cursive_images/blob/master/outputs/a02-000-s02-02.png)
 
 ## License
-The above used Images are taken from IAMDB 
+The above used Images are taken from IAMDB.
+
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
