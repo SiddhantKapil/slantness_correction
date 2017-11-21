@@ -10,24 +10,26 @@ Libraries required:
 * collections
 
 ## Usage ##
-Run test.py to use the code. Change the image path in the test.py to use your custom images.
 
-## Results##
+Run test.py to use the code. Change the image path in the test.py to use your custom images. 
+Results will be stored in output folder.
 
-Input:
-![alt text](https://github.com/SiddhantKapil/deslant_cursive_images/blob/master/data/a02-000-s00-00.png)
-
-Output:
-![alt text](https://github.com/SiddhantKapil/deslant_cursive_images/blob/master/data/a02-000-s00-00.png)
+## Result ##
 
 Input:
 ![alt text](https://github.com/SiddhantKapil/deslant_cursive_images/blob/master/data/a02-000-s00-00.png)
 
 Output:
-![alt text](https://github.com/SiddhantKapil/deslant_cursive_images/blob/master/data/a02-000-s00-00.png)
+![alt text](https://github.com/SiddhantKapil/deslant_cursive_images/blob/master/output/a02-000-s00-00.png)
 
 Input:
-![alt text](https://github.com/SiddhantKapil/deslant_cursive_images/blob/master/data/a02-000-s00-00.png)
+![alt text](https://github.com/SiddhantKapil/deslant_cursive_images/blob/master/data/a02-000-s00-01.png)
 
 Output:
-![alt text](https://github.com/SiddhantKapil/deslant_cursive_images/blob/master/data/a02-000-s00-00.png)
+![alt text](https://github.com/SiddhantKapil/deslant_cursive_images/blob/master/output/a02-000-s00-00.png)
+
+Input:
+![alt text](https://github.com/SiddhantKapil/deslant_cursive_images/blob/master/data/a02-000-s02-00.png)
+
+Output:
+![alt text](https://github.com/SiddhantKapil/deslant_cursive_images/blob/master/output/a02-000-s00-00.png)
