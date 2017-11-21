@@ -1,7 +1,7 @@
 # Deslant Cursive Images
 
 ## About
-Use it convert titled font images into straight font. Can be useful in OCR and segmenting words from sentence images
+Use it to deslant cursive font images into vetical font. Can be useful in OCR and segmenting words from sentence images
 
 ## Requirements
 Libraries required:
